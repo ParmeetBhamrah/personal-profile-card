@@ -6,7 +6,7 @@ function App() {
       <ProfileCard
         name = "Parmeet"
         bio = "CSE Student learning React"
-        imageUrl = "../public/my-pic- 3.jpeg"
+        imageUrl = "/my-pic- 3.jpeg"
         links={[
           { label: "GitHub", url: "https://github.com/ParmeetBhamrah" },
           { label: "LinkedIn", url: "https://www.linkedin.com/in/parmeetsinghbhamrah/" },
